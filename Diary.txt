@@ -9,5 +9,8 @@ November 10, 6:32 AM - Draft pages altered with name changes.
 
 [backlog end]
 
-November 15, 6:21 PM Tested Google site's capability to host a pdf. Created a test pdf for this.
+November 15, 6:21 PM - Tested Google site's capability to host a pdf. Created a test pdf for this.
 
+November 15, 9:13 PM - connected GitHub repository to the local directory, added initial files, including the beginning of the diary enteries.
+
+November 15, 9:15 PM - Practicing editing the Google Site draft.
