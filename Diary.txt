@@ -1,0 +1,13 @@
+Project 2(b) V
+
+
+[backlog]
+
+November 10, 6:26 AM - Google site draft first created.
+
+November 10, 6:32 AM - Draft pages altered with name changes.
+
+[backlog end]
+
+November 15, 6:21 PM Tested Google site's capability to host a pdf. Created a test pdf for this.
+
