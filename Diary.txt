@@ -11,6 +11,20 @@ November 10, 6:32 AM - Draft pages altered with name changes.
 
 November 15, 6:21 PM - Tested Google site's capability to host a pdf. Created a test pdf for this.
 
-November 15, 9:13 PM - connected GitHub repository to the local directory, added initial files, including the beginning of the diary enteries.
+November 15, 9:13 PM - connected GitHub repository to the local directory, added initial files, including the beginning of the diary entries.
 
 November 15, 9:15 PM - Practicing editing the Google Site draft.
+
+November 15, 10:47 PM - Reviewed components of the ePortfolio on d2l. This led to me deciding that I would try a different template design for my site, so I started anew. New url has been added to the document that is meant for the website draft. 
+
+November 15, 11:01 PM - Started trying out different webpage names for website design and clarity purposes.
+
+November 15, 11:37 PM - Changed website header color and images. 
+
+November 15, 11:44 PM - Decided on pages names. Added a Resume page. 
+
+November 15, 11:49 PM - Renamed title of the site to MLIS ePortfolio. Added a page for Artifact and MLIS Tracking Sheets.
+
+November 15, 11:58 PM - Changed title again to say MLIS for now. This is likely temporary. Added a page titled Professional Goals.
+
+November 15, 11:59 PM - Added a page titled About.
