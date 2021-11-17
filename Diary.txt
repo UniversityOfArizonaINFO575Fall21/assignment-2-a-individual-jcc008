@@ -39,3 +39,8 @@ November 16, 9:34 PM - Started adding text notes to each site page. Text is just
 
 November 16, 9:36 PM - Renamed top page header.
 
+November 16, 10:11 PM - Changed header color from transparent a solid color. 
+
+November 16, 10:28 PM - Created and added a site logo.
+
+November 16, 10:41 PM - Added site logo image as favicon as well. 
