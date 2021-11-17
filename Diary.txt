@@ -28,3 +28,14 @@ November 15, 11:49 PM - Renamed title of the site to MLIS ePortfolio. Added a pa
 November 15, 11:58 PM - Changed title again to say MLIS for now. This is likely temporary. Added a page titled Professional Goals.
 
 November 15, 11:59 PM - Added a page titled About.
+
+November 16, 8:40 PM - Added drop down menu for portfolio artifacts. 
+
+November 16, 9:23 PM - Added a copies of artifacts from previous courses from Google Drive.
+
+November 16, 9:33 PM - Made space for the third artifact to be called eBook. (May change organization of this later.)
+
+November 16, 9:34 PM - Started adding text notes to each site page. Text is just placeholders for now. 
+
+November 16, 9:36 PM - Renamed top page header.
+
