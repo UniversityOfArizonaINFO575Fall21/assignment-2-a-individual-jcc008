@@ -44,3 +44,9 @@ November 16, 10:11 PM - Changed header color from transparent a solid color.
 November 16, 10:28 PM - Created and added a site logo.
 
 November 16, 10:41 PM - Added site logo image as favicon as well. 
+
+November 16, 11:11 PM - Changed drop down menus. Readded About section and put Professional Goals and Resume under this.
+
+November 16, 11:14 PM - Added drop down menu for Tracking Sheet. Changed to Tracking Sheets. One to be included for the portfolio requirements the other for overall degree requirements. 
+
+November 16, 11:14 PM - Published website under the Google site url "mlisportfolio." Checked published site and discovered that Artifact documents were set to private view only. Changed permissions for these documents.
