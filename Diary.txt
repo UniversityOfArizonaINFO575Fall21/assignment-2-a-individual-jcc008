@@ -52,4 +52,6 @@ November 16, 11:14 PM - Added drop down menu for Tracking Sheet. Changed to Trac
 November 16, 11:14 PM - Published website under the Google site url "mlisportfolio." Checked published site and discovered that Artifact documents were set to private view only. Changed permissions for these documents.
 
 
-November 18, 3pm - Rereading up on Calibre and making epubs.
+November 18, 3:00 PM - Rereading up on Calibre and making epubs.
+
+November 18, 10:32 PM - eBook created with Calibre. It is empty for now, but content will be updated.
