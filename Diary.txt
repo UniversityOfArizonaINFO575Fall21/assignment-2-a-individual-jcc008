@@ -50,3 +50,6 @@ November 16, 11:11 PM - Changed drop down menus. Readded About section and put P
 November 16, 11:14 PM - Added drop down menu for Tracking Sheet. Changed to Tracking Sheets. One to be included for the portfolio requirements the other for overall degree requirements. 
 
 November 16, 11:14 PM - Published website under the Google site url "mlisportfolio." Checked published site and discovered that Artifact documents were set to private view only. Changed permissions for these documents.
+
+
+November 18, 3pm - Rereading up on Calibre and making epubs.
