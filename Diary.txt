@@ -57,3 +57,5 @@ November 18, 3:00 PM - Rereading up on Calibre and making epubs.
 November 18, 10:32 PM - eBook created with Calibre. It is empty for now, but content will be updated.
 
 November 19, 7:29-10:06 PM - Created images for eBook. eBook topic is to be a drawing guide. 
+
+November 19 10:29 PM - tried to create another branch for images. Resulted in error due to no upstream location; removed branch.
