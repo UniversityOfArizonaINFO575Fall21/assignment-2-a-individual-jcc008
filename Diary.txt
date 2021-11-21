@@ -62,10 +62,16 @@ November 19, 10:29 PM - Tried to create another branch for images. Resulted in e
 
 November 19, 10:46 PM - Decided against using additional branch for ebook. Will continue to use main branch. 
 
-November 20 5:00PM/ November 21 9:00AM - Wrote eBook and coordinated html in Calibre so text and images were working. Used Calibre's Bug Checking function to find and fix several syntax errors that had occured while writing the eBook. Also included table of contents links within eBook. Will review again before submission once more for typographical errors.
+November 20 5:00PM/ November 21 9:00AM - Wrote eBook and coordinated html in Calibre so text and images were working. Used Calibre's Bug Checking function to find and fix several syntax errors that had occurred while writing the eBook. Also included table of contents links within eBook. Will review again before submission once more for typographical errors.
 
 November 21, 7:56 AM - Resized Step11's image. It was too large compared to the other images.
 
 November 21, 9:00 AM - Removed Step1's image since it ended up not being used in the eBook. It was just a screencap of the drawing program.
 
-November 21, 10:26 AM - tried adding an epub file I had in my Google Drive to my website. Did not work, so I plan to put a link to my GitHub for the epub version and make a pdf of it to post on the site for convience of the viewers.
+November 21, 10:26 AM - tried adding an epub file I had in my Google Drive to my website. Did not work, so I plan to put a link to my GitHub for the epub version and make a pdf of it to post on the site for convenience of the viewers.
+
+November 21, 11:07 AM - fixed a few typographical errors in the Diary 
+
+November 21, 11:08 AM - Starting to make final revisions and text additions on the website.
+
+November 21, 11:09 AM - Added program tracking sheet document. 
