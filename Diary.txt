@@ -77,3 +77,13 @@ November 21, 11:08 AM - Starting to make final revisions and text additions on t
 November 21, 11:09 AM - Added program tracking sheet document. 
 
 November 21, 11:50 AM - Added resume information, added portfolio tracking sheet, changed header font sizes.
+
+November 21, 2:57 PM - Checked epub for errors in the text and code syntax. Completed final draft.
+
+November 21, 3:29 PM - Created a Drive version of the epub for the website. I have inked to the GitHub epub and have created a Drive version for the website.
+
+November 21, 4:30 PM - Added final illustration of cat to GitHub.
+
+November 21, 4:34 PM - edited positioning of text boxes on website. 
+
+November 21, 4:57 PM - Added final revisions to text content on website.
