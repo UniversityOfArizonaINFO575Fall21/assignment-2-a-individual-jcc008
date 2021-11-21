@@ -75,3 +75,5 @@ November 21, 11:07 AM - fixed a few typographical errors in the Diary
 November 21, 11:08 AM - Starting to make final revisions and text additions on the website.
 
 November 21, 11:09 AM - Added program tracking sheet document. 
+
+November 21, 11:50 AM - Added resume information, added portfolio tracking sheet, changed header font sizes.
