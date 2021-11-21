@@ -67,3 +67,5 @@ November 20 5:00PM/ November 21 9:00AM - Wrote eBook and coordinated html in Cal
 November 21, 7:56 AM - Resized Step11's image. It was too large compared to the other images.
 
 November 21, 9:00 AM - Removed Step1's image since it ended up not being used in the eBook. It was just a screencap of the drawing program.
+
+November 21, 10:26 AM - tried adding an epub file I had in my Google Drive to my website. Did not work, so I plan to put a link to my GitHub for the epub version and make a pdf of it to post on the site for convience of the viewers.
